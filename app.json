@@ -1,0 +1,8 @@
+{
+  "name": "Web-Study",
+  "description": "Web-Study",
+  "repository": "https://github.com/pomaojisan/Web-Study",
+  "logo": "",
+  "keywords": ["node"],
+  "image": "heroku/nodejs"
+}
